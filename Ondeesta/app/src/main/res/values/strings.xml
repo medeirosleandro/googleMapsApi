@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Onde esta</string>
+    <string name="google_play_services_version">Insert your Google Maps api Key</string>
+</resources>
